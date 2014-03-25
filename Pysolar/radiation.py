@@ -21,6 +21,7 @@
 
 """
 import math
+import datetime
 
 def GetAirMassRatio(altitude_deg):
     # from Masters, p. 412
